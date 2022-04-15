@@ -7,7 +7,7 @@ However, none of these project tries to pull the data inside CAPE(i.e.: the grad
 CAPE does not shows these info in a way that is easily accessible does not really help anyone. Therefore, this project aims to help solve the issue.
 
 ## What has been done right now?
-I have made a couple jupyter notebooks that could scrape the entire site now, I just haven't really have the time to make another attempt for this. Now, 
+I have made a couple jupyter notebooks that could scrape the entire site now, and I have tried to scrape some of the data from the site already. I just haven't really have the time to make another attempt for this. Now, 
 if you know anything about Selenium, Jupyter Notebook, and Python, you could probably run this code. If you are having a hard time understanding it, you are welcome to
 email me at ptse at ucsd.edu.
 
