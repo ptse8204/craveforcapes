@@ -25,7 +25,7 @@ Yeah, sure! The data entire updated CAPE data is available [here](https://github
 * Average Grade Expected	
 * Average Grade Received
 
-However, the data does not include any data composition. The [finalscrapebook.ipynb](https://github.com/ptse8204/craveforcapes/blob/main/finalscrapebook.ipynb) has the code that has ability to pull this, but pulling the entire dataset takes time. The good news is some of the data is already available on the [repository](https://github.com/ptse8204/craveforcapes), I'll make graduate updates until all data were pull.
+However, the data does not include any data composition. The [finalscrapebook.ipynb](https://github.com/ptse8204/craveforcapes/blob/main/finalscrapebook.ipynb) has the code that has ability to pull this, but pulling the entire dataset takes time. The good news is some of the data is already available on the [repository](https://github.com/ptse8204/craveforcapes), I'll make gradual updates until all data were pull.
 
 ## What's next?
 Depending on my work schedule, I would try my very best to update with all the available data and then start building an accessible website for everyone. 
