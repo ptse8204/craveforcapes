@@ -1,7 +1,7 @@
 # CraveforCapes
 ## What is this project?
-This is a project that would help better understand the data that was collected throughout [cape.ucsd.edu](CAPE (Course and Professor Evaluations)). 
-There are a couple projects that had predated mine, such as [https://github.com/dcao/seascape](Seascape), and [https://github.com/andportnoy/smartercapes.com](SmarterCAPE). 
+This is a project that would help better understand the data that was collected throughout [CAPE (Course and Professor Evaluations)](cape.ucsd.edu). 
+There are a couple projects that had predated mine, such as [Seascape](https://github.com/dcao/seascape), and [SmarterCAPE](https://github.com/andportnoy/smartercapes.com). 
 
 However, none of these project tries to pull the data inside CAPE(i.e.: the grade compositions and other questions that were asked in CAPE survey), the fact that
 CAPE does not shows these info in a way that is easily accessible does not really help anyone. Therefore, this project aims to help solve the issue.
@@ -17,5 +17,7 @@ If you wanted to help, you are free to send me an email.
 
 ## Acknowledgment 
 Some of the original code were based on:
-* [https://github.com/dcao/seascape](Seascape)
-* [https://github.com/andportnoy/smartercapes.com](SmarterCAPE)
+* [Seascape](https://github.com/dcao/seascape)
+* [SmarterCAPE](https://github.com/andportnoy/smartercapes.com)
+
+If not for them, this project would not even be possible for me :)
