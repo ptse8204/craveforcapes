@@ -1,0 +1,1192 @@
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+/Users/edwint/.wdm/drivers/geckodriver/macos/v0.29.1/geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1652091922630	geckodriver	INFO	Listening on 127.0.0.1:49523
+1652091922854	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49524" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileXBHj3o"
+1652091923549	Marionette	INFO	Marionette enabled
+2022-05-09 03:25:23.726 plugin-container[1226:19892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 03:25:23.726 plugin-container[1226:19892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 03:25:23.790 plugin-container[1226:19892] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 03:25:23.790 plugin-container[1226:19892] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 03:25:23.790 plugin-container[1226:19924] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 03:25:23.790 plugin-container[1226:19924] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileXBHj3o/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49524/devtools/browser/5f505ca5-c3e5-454e-87f5-d7c246c1ae73
+1652091925375	Marionette	INFO	Listening on port 49531
+1652091925477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652091937328	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652091937745	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652091953319	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://cape.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652091986471	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 598: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1652120221607	geckodriver	INFO	Listening on 127.0.0.1:50697
+1652120221659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50698" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilem5er1q"
+1652120222131	Marionette	INFO	Marionette enabled
+2022-05-09 11:17:02.380 plugin-container[5154:189806] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 11:17:02.380 plugin-container[5154:189806] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 11:17:02.496 plugin-container[5154:189806] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 11:17:02.496 plugin-container[5154:189806] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-09 11:17:02.497 plugin-container[5154:189831] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-09 11:17:02.497 plugin-container[5154:189831] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilem5er1q/search.json.mozlz4", (void 0)))
+1652120223551	Marionette	INFO	Stopped listening on port 49531
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50698/devtools/browser/776fe062-8c4a-4954-9f02-4eb43aeb2c76
+1652120223774	Marionette	INFO	Listening on port 50721
+Read port: 50721
+1652120223845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652120230372	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652120230886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652120239169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652121030816	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1652121031014	Marionette	INFO	Stopped listening on port 50721
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652221431536	geckodriver	INFO	Listening on 127.0.0.1:55721
+1652221431765	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "55722" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofiled45eEx"
+1652221432372	Marionette	INFO	Marionette enabled
+2022-05-10 15:23:52.702 plugin-container[20529:827157] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 15:23:52.702 plugin-container[20529:827157] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 15:23:52.978 plugin-container[20529:827157] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 15:23:52.978 plugin-container[20529:827157] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 15:23:52.979 plugin-container[20529:827155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 15:23:52.979 plugin-container[20529:827155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofiled45eEx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:55722/devtools/browser/130d8f44-bc22-4102-b723-3a2d2f621b72
+1652221434934	Marionette	INFO	Listening on port 55734
+Read port: 55734
+1652221435011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652221445964	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652221446404	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652221459999	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652225518014	Marionette	INFO	Stopped listening on port 55734
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652239137871	geckodriver	INFO	Listening on 127.0.0.1:57571
+1652239138278	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "57572" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilelRTd3P"
+1652239139012	Marionette	INFO	Marionette enabled
+2022-05-10 20:18:59.276 plugin-container[94762:1073349] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 20:18:59.276 plugin-container[94762:1073349] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 20:18:59.591 plugin-container[94762:1073349] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 20:18:59.591 plugin-container[94762:1073349] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 20:18:59.592 plugin-container[94762:1073347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 20:18:59.592 plugin-container[94762:1073347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilelRTd3P/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:57572/devtools/browser/61a7e57d-9440-44ca-bbe2-71f8a1b882b8
+1652239140752	Marionette	INFO	Listening on port 57588
+Read port: 57588
+1652239140801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652239156068	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652239156512	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx, line 276: ReferenceError: jQuery is not defined
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652251437202	geckodriver	INFO	Listening on 127.0.0.1:58545
+1652251437717	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58546" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezG8tRF"
+1652251438232	Marionette	INFO	Marionette enabled
+2022-05-10 23:43:58.478 plugin-container[97012:1149901] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:43:58.479 plugin-container[97012:1149901] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 23:43:58.634 plugin-container[97012:1149901] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:43:58.634 plugin-container[97012:1149901] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 23:43:58.634 plugin-container[97012:1149930] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:43:58.634 plugin-container[97012:1149930] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezG8tRF/search.json.mozlz4", (void 0)))
+1652251439482	Marionette	INFO	Stopped listening on port 57588
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58546/devtools/browser/c3859449-3fbb-4513-848c-388fc1c303aa
+1652251439812	Marionette	INFO	Listening on port 58563
+Read port: 58563
+1652251439911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652251445865	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652251446285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652251452967	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652251497151	geckodriver	INFO	Listening on 127.0.0.1:58673
+1652251497684	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58674" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezatAZd"
+2022-05-10 23:44:58.165 plugin-container[97068:1151322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:44:58.166 plugin-container[97068:1151322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652251498204	Marionette	INFO	Marionette enabled
+2022-05-10 23:44:58.213 plugin-container[97068:1151322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:44:58.213 plugin-container[97068:1151322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-10 23:44:58.214 plugin-container[97068:1151320] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-10 23:44:58.214 plugin-container[97068:1151320] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezatAZd/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:58674/devtools/browser/17f527b7-7442-4451-aed8-579e0c0a463b
+1652251499732	Marionette	INFO	Listening on port 58693
+Read port: 58693
+1652251499797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652251507138	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652251507546	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652251514225	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652261223909	Marionette	INFO	Stopped listening on port 58693
+1652314456416	geckodriver	INFO	Listening on 127.0.0.1:63772
+1652314456630	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63773" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileDsUvk4"
+1652314457372	Marionette	INFO	Marionette enabled
+2022-05-11 17:14:17.698 plugin-container[6672:1505820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 17:14:17.698 plugin-container[6672:1505820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 17:14:18.021 plugin-container[6672:1505820] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 17:14:18.021 plugin-container[6672:1505820] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-11 17:14:18.021 plugin-container[6672:1505818] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-11 17:14:18.021 plugin-container[6672:1505818] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileDsUvk4/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63773/devtools/browser/d07f4fcb-3b80-4984-a5eb-6daa1526377e
+1652314459209	Marionette	INFO	Listening on port 63790
+Read port: 63790
+1652314459270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652314476316	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652314476743	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652314492035	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652315915882	Marionette	INFO	Stopped listening on port 63790
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652340222921	geckodriver	INFO	Listening on 127.0.0.1:49331
+1652340223123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49332" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile6hNA1G"
+1652340223887	Marionette	INFO	Marionette enabled
+2022-05-12 00:23:44.222 plugin-container[10600:1653551] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 00:23:44.222 plugin-container[10600:1653551] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 00:23:44.459 plugin-container[10600:1653551] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 00:23:44.459 plugin-container[10600:1653551] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 00:23:44.460 plugin-container[10600:1653609] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 00:23:44.460 plugin-container[10600:1653609] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile6hNA1G/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49332/devtools/browser/a8c5e8fd-88f7-4cc1-a4f6-855eb96552cd
+1652340225692	Marionette	INFO	Listening on port 49349
+Read port: 49349
+1652340225744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652340240582	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652340241013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx, line 276: ReferenceError: jQuery is not defined
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652341752780	Marionette	INFO	Stopped listening on port 49349
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652346503990	geckodriver	INFO	Listening on 127.0.0.1:50272
+1652346504412	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50273" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileH4OLGY"
+1652346505097	Marionette	INFO	Marionette enabled
+2022-05-12 02:08:25.432 plugin-container[12118:1701264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 02:08:25.432 plugin-container[12118:1701264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 02:08:25.718 plugin-container[12118:1701264] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 02:08:25.718 plugin-container[12118:1701264] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 02:08:25.718 plugin-container[12118:1701266] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 02:08:25.718 plugin-container[12118:1701266] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileH4OLGY/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:50273/devtools/browser/5e2b151b-9b1a-41c3-9a03-94f34c0ae6a9
+1652346506819	Marionette	INFO	Listening on port 50290
+Read port: 50290
+1652346506848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652346513546	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652346514039	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx, line 276: ReferenceError: jQuery is not defined
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652347916087	Marionette	INFO	Stopped listening on port 50290
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652395003808	geckodriver	INFO	Listening on 127.0.0.1:61879
+1652395003986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61880" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/1_/2jcphnxx5vj4qwf_v4qsw81c0000gn/T/rust_mozprofileCSkAjv"
+1652395004623	Marionette	INFO	Marionette enabled
+2022-05-12 15:36:45.924 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSButton: 0x12305ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.925 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSButton: 0x129cb3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.926 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSButton: 0x129cb4000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.928 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSButton: 0x129cbe000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.931 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSButton: 0x129cbe400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.932 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129cbc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2022-05-12 15:36:45.933 firefox-bin[63952:1236616] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12305a400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/1_/2jcphnxx5vj4qwf_v4qsw81c0000gn/T/rust_mozprofileCSkAjv/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61880/devtools/browser/80516dd7-145f-4137-aeaf-e0e8d120c642
+1652395009117	Marionette	INFO	Listening on port 61903
+Read port: 61903
+1652395009176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652395016966	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652395026450	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652396367282	Marionette	INFO	Stopped listening on port 61903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1652396907512	geckodriver	INFO	Listening on 127.0.0.1:52254
+1652396908012	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52255" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile1LuwE9"
+1652396908781	Marionette	INFO	Marionette enabled
+2022-05-12 16:08:29.116 plugin-container[19315:2005206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 16:08:29.116 plugin-container[19315:2005206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 16:08:29.420 plugin-container[19315:2005206] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 16:08:29.421 plugin-container[19315:2005206] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 16:08:29.421 plugin-container[19315:2005271] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 16:08:29.421 plugin-container[19315:2005271] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile1LuwE9/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52255/devtools/browser/84d43547-012b-424a-9397-cf8f1210f0f9
+1652396910573	Marionette	INFO	Listening on port 52272
+Read port: 52272
+1652396910649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652396920147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652396921426	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652396941891	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652398355402	Marionette	INFO	Stopped listening on port 52272
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652407204476	geckodriver	INFO	Listening on 127.0.0.1:52978
+1652407204993	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "52979" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileCk5qL1"
+1652407205768	Marionette	INFO	Marionette enabled
+2022-05-12 19:00:06.058 plugin-container[20855:2072281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:00:06.058 plugin-container[20855:2072281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 19:00:06.403 plugin-container[20855:2072281] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:00:06.403 plugin-container[20855:2072281] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 19:00:06.404 plugin-container[20855:2072342] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:00:06.404 plugin-container[20855:2072342] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileCk5qL1/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:52979/devtools/browser/b14f586c-f14d-49bc-bf25-b531ff4c21e8
+1652407208433	Marionette	INFO	Listening on port 52996
+Read port: 52996
+1652407208463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652407224683	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652407225351	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652407233057	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652408415998	geckodriver	INFO	Listening on 127.0.0.1:53185
+1652408416532	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53186" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile76AUnh"
+1652408416966	Marionette	INFO	Marionette enabled
+2022-05-12 19:20:17.038 plugin-container[21110:2081917] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:20:17.038 plugin-container[21110:2081917] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 19:20:17.194 plugin-container[21110:2081917] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:20:17.194 plugin-container[21110:2081917] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-12 19:20:17.194 plugin-container[21110:2081952] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-12 19:20:17.194 plugin-container[21110:2081952] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile76AUnh/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:53186/devtools/browser/06cb041f-17c1-4b7d-8f83-f437030c943f
+1652408418568	Marionette	INFO	Listening on port 53207
+Read port: 53207
+1652408418661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652408421207	Marionette	INFO	Stopped listening on port 52996
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652408435027	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652408435467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652408443444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652437247703	Marionette	INFO	Stopped listening on port 53207
+1652466811667	geckodriver	INFO	Listening on 127.0.0.1:59986
+1652466811894	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "59987" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileE8fWZB"
+1652466812576	Marionette	INFO	Marionette enabled
+2022-05-13 11:33:32.873 plugin-container[32134:2476204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 11:33:32.873 plugin-container[32134:2476204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 11:33:33.113 plugin-container[32134:2476204] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 11:33:33.113 plugin-container[32134:2476204] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 11:33:33.114 plugin-container[32134:2476261] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 11:33:33.114 plugin-container[32134:2476261] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileE8fWZB/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:59987/devtools/browser/20e40344-35dc-4e8d-a3a8-072cb60a0005
+1652466814314	Marionette	INFO	Listening on port 60003
+Read port: 60003
+1652466814421	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652466823354	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652466825203	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652466832526	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1652475353197	geckodriver	INFO	Listening on 127.0.0.1:61588
+1652475353738	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61589" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilek30W9n"
+1652475354570	Marionette	INFO	Marionette enabled
+2022-05-13 13:55:54.829 plugin-container[34030:2536336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 13:55:54.829 plugin-container[34030:2536336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 13:55:54.947 plugin-container[34030:2536336] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 13:55:54.947 plugin-container[34030:2536336] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 13:55:54.963 plugin-container[34030:2536390] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 13:55:54.963 plugin-container[34030:2536390] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilek30W9n/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:61589/devtools/browser/7701a9c5-a15e-4bb6-b54a-6100e21dc4ed
+1652475356057	Marionette	INFO	Listening on port 61607
+Read port: 61607
+1652475356165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652475363302	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652475363757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652475372421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652476491672	Marionette	INFO	Stopped listening on port 61607
+1652505749905	geckodriver	INFO	Listening on 127.0.0.1:62819
+1652505750448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62820" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilefA5HJA"
+1652505751168	Marionette	INFO	Marionette enabled
+2022-05-13 22:22:31.522 plugin-container[39119:2723135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 22:22:31.543 plugin-container[39119:2723135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 22:22:31.824 plugin-container[39119:2723135] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 22:22:31.824 plugin-container[39119:2723135] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-13 22:22:31.824 plugin-container[39119:2723196] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-13 22:22:31.824 plugin-container[39119:2723196] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilefA5HJA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62820/devtools/browser/f13173c2-9a67-4fb1-a589-be9aa9ff02b4
+1652505753036	Marionette	INFO	Listening on port 62838
+Read port: 62838
+1652505753081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652505762601	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652505763025	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652505783779	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652520718077	geckodriver	INFO	Listening on 127.0.0.1:63907
+1652520718289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63908" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezeD0KK"
+1652520718831	Marionette	INFO	Marionette enabled
+2022-05-14 02:31:59.036 plugin-container[42171:2828287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 02:31:59.037 plugin-container[42171:2828287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 02:31:59.256 plugin-container[42171:2828287] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 02:31:59.256 plugin-container[42171:2828287] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 02:31:59.257 plugin-container[42171:2828344] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 02:31:59.257 plugin-container[42171:2828344] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilezeD0KK/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:63908/devtools/browser/aa150bc1-f8f5-4dc4-bdb8-53713b03ab1b
+1652520720571	Marionette	INFO	Listening on port 63926
+Read port: 63926
+1652520720610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652520722364	Marionette	INFO	Stopped listening on port 62838
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652520727775	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652520729090	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652520754789	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652521630218	Marionette	INFO	Stopped listening on port 63926
+1652580445407	geckodriver	INFO	Listening on 127.0.0.1:49444
+1652580445935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49445" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileXiqOrb"
+1652580446683	Marionette	INFO	Marionette enabled
+2022-05-14 19:07:26.992 plugin-container[51762:3193009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 19:07:26.992 plugin-container[51762:3193009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 19:07:27.281 plugin-container[51762:3193009] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 19:07:27.281 plugin-container[51762:3193009] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 19:07:27.281 plugin-container[51762:3193029] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 19:07:27.281 plugin-container[51762:3193029] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileXiqOrb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:49445/devtools/browser/497df073-89f4-4c29-bbcc-d18a28350d97
+1652580449801	Marionette	INFO	Listening on port 49461
+Read port: 49461
+1652580449909	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652580461586	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652580462016	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652580471263	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652588248388	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1652588248595	Marionette	INFO	Stopped listening on port 49461
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652589061587	geckodriver	INFO	Listening on 127.0.0.1:51045
+1652589062132	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51046" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilegBMMI3"
+1652589063264	Marionette	INFO	Marionette enabled
+2022-05-14 21:31:03.539 plugin-container[53812:3258947] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 21:31:03.541 plugin-container[53812:3258947] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 21:31:03.807 plugin-container[53812:3258947] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 21:31:03.807 plugin-container[53812:3258947] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-14 21:31:03.808 plugin-container[53812:3258971] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-14 21:31:03.824 plugin-container[53812:3258971] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilegBMMI3/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:51046/devtools/browser/de67f201-c742-4810-bb42-c394b405d39a
+1652589065262	Marionette	INFO	Listening on port 51069
+Read port: 51069
+1652589065305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652589076473	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652589076949	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652589096767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652603465966	Marionette	INFO	Stopped listening on port 51069
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652603483934	geckodriver	INFO	Listening on 127.0.0.1:54254
+1652603484137	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54255" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileAZgE7x"
+1652603484804	Marionette	INFO	Marionette enabled
+2022-05-15 01:31:25.044 plugin-container[57099:3372322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:31:25.044 plugin-container[57099:3372322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 01:31:25.463 plugin-container[57099:3372322] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:31:25.463 plugin-container[57099:3372322] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 01:31:25.463 plugin-container[57099:3372320] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:31:25.463 plugin-container[57099:3372320] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileAZgE7x/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54255/devtools/browser/aac505b5-5631-4df5-b649-447480589139
+1652603486587	Marionette	INFO	Listening on port 54273
+Read port: 54273
+1652603486646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652603494082	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652603494565	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652603508607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652603630537	Marionette	INFO	Stopped listening on port 54273
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1652603636381	geckodriver	INFO	Listening on 127.0.0.1:54397
+1652603636922	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "54398" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileEmC7Yb"
+1652603637353	Marionette	INFO	Marionette enabled
+2022-05-15 01:33:57.417 plugin-container[57161:3374298] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:33:57.418 plugin-container[57161:3374298] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 01:33:57.592 plugin-container[57161:3374298] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:33:57.592 plugin-container[57161:3374298] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 01:33:57.593 plugin-container[57161:3374300] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 01:33:57.593 plugin-container[57161:3374300] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofileEmC7Yb/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:54398/devtools/browser/dbb5da80-06ae-4722-9707-a0081d89e598
+1652603638808	Marionette	INFO	Listening on port 54416
+Read port: 54416
+1652603638924	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652603645431	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652603645860	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652603696412	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652647973230	geckodriver	INFO	Listening on 127.0.0.1:60373
+1652647975094	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60374" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilehSK1CZ"
+1652647975681	Marionette	INFO	Marionette enabled
+2022-05-15 13:52:55.919 plugin-container[65962:3681622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:52:55.919 plugin-container[65962:3681622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:52:56.337 plugin-container[65962:3681622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:52:56.337 plugin-container[65962:3681622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:52:56.337 plugin-container[65962:3681691] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:52:56.337 plugin-container[65962:3681691] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofilehSK1CZ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60374/devtools/browser/700a3568-74ec-4831-8c95-f54c20dae728
+1652647977645	Marionette	INFO	Listening on port 60391
+Read port: 60391
+1652647977726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652648001364	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652648002357	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx, line 276: ReferenceError: jQuery is not defined
+1652648108661	Marionette	INFO	Stopped listening on port 60391
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652648111737	geckodriver	INFO	Listening on 127.0.0.1:60508
+1652648112272	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60509" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile0REOAL"
+1652648113172	Marionette	INFO	Marionette enabled
+2022-05-15 13:55:13.362 plugin-container[65988:3683325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:13.363 plugin-container[65988:3683325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:55:13.502 plugin-container[65988:3683325] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:13.502 plugin-container[65988:3683325] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:55:13.502 plugin-container[65988:3683347] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:13.502 plugin-container[65988:3683347] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile0REOAL/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60509/devtools/browser/59f513f6-eb69-4744-9e40-0c12f4b74ebc
+1652648114660	Marionette	INFO	Listening on port 60531
+Read port: 60531
+1652648114786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652648132712	Marionette	INFO	Stopped listening on port 54416
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652648135995	Marionette	INFO	Stopped listening on port 60531
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1652648136595	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1652648156638	geckodriver	INFO	Listening on 127.0.0.1:60578
+1652648157184	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "60579" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile7VFn72"
+2022-05-15 13:55:57.989 plugin-container[66001:3684149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:57.989 plugin-container[66001:3684149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:55:57.992 plugin-container[66001:3684149] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:57.992 plugin-container[66001:3684149] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-05-15 13:55:57.993 plugin-container[66001:3684155] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-05-15 13:55:57.993 plugin-container[66001:3684155] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1652648158003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/51/64d5lv_53rx716ghj8z3q13c0000gn/T/rust_mozprofile7VFn72/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:60579/devtools/browser/e3456efe-cf70-4ae2-9bda-dd82f9b9922a
+1652648159253	Marionette	INFO	Listening on port 60601
+Read port: 60601
+1652648159292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+JavaScript error: https://a5.ucsd.edu/tritON/scripts/base-min.js, line 6: TypeError: $(...).offset() is undefined
+1652648201006	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652648201927	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://api-ce13a1a7.duosecurity.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://a5.ucsd.edu"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1652648209898	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://cape.ucsd.edu/responses/Results.aspx?Name=%2C, line 276: ReferenceError: jQuery is not defined
+1652656181018	Marionette	INFO	Stopped listening on port 60601
